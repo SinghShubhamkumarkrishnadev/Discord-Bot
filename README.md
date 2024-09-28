@@ -34,7 +34,7 @@ The StackUp HelpDesk Discord Bot is designed to assist users by answering common
 
 
 ## Must Watch Demo Video 
-<a href="https://youtu.be/WDKuvBKNj-g">
+<a href="https://youtu.be/lOwMWzFHDWg?feature=shared">
     <img src="https://github.com/SinghShubhamkumarkrishnadev/Bounty-Llama-Chatbot-with-Sentiment-Analysis-Integration/blob/main/videos.png" width="400" height="300" alt="Watch the video">
 </a>
   
