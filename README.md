@@ -3,7 +3,7 @@ To enhance your README, I'll focus on improving clarity, structure, and adding m
 ---
 
 # **StackUp HelpDesk Discord Bot**  
-![Bot Image](https://github.com/SinghShubhamkumarkrishnadev/Bounty-Llama-Chatbot-with-Sentiment-Analysis-Integration/blob/main/videos.png)
+<img src="https://github.com/SinghShubhamkumarkrishnadev/Discord-Bot/blob/main/bot.png" width="150" height="200" alt="BOT">
 
 This bot serves as a **virtual helpdesk** for StackUp users, providing quick and efficient responses to common FAQs about StackUp challenges and events. It integrates AI-powered responses for complex queries, ensuring that users always have the support they need.
 
