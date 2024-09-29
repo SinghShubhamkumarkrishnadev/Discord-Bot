@@ -1,5 +1,3 @@
-To enhance your README, I'll focus on improving clarity, structure, and adding more detailed explanations where necessary. Here’s the enhanced version:
-
 ---
 
 # **StackUp HelpDesk Discord Bot**  
